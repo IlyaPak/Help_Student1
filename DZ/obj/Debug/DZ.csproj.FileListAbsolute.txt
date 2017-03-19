@@ -1,0 +1,9 @@
+C:\Projects\DZ\DZ\bin\Debug\DZ.exe.config
+C:\Projects\DZ\DZ\bin\Debug\DZ.exe
+C:\Projects\DZ\DZ\bin\Debug\DZ.pdb
+C:\Projects\DZ\DZ\obj\Debug\DZ.csprojResolveAssemblyReference.cache
+C:\Projects\DZ\DZ\obj\Debug\DZ.exe
+C:\Projects\DZ\DZ\obj\Debug\DZ.pdb
+C:\Users\Dragon\Desktop\SmartStep\DZ\DZ\bin\Debug\DZ.exe.config
+C:\Users\Dragon\Desktop\SmartStep\DZ\DZ\obj\Debug\DZ.exe
+C:\Users\Dragon\Desktop\SmartStep\DZ\DZ\obj\Debug\DZ.pdb

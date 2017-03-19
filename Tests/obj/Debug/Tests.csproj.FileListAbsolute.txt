@@ -1,0 +1,9 @@
+C:\Projects\DZ\Tests\bin\Debug\Tests.dll
+C:\Projects\DZ\Tests\bin\Debug\Tests.pdb
+C:\Projects\DZ\Tests\bin\Debug\DZ.exe
+C:\Projects\DZ\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\DZ\Tests\bin\Debug\DZ.pdb
+C:\Projects\DZ\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\DZ\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\DZ\Tests\obj\Debug\Tests.dll
+C:\Projects\DZ\Tests\obj\Debug\Tests.pdb
